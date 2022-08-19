@@ -1,5 +1,5 @@
 # mailbud
 
-_mailing addresses as a service_ or AirBnB for Mailing Addresses
+_mailing addresses as a service_ or "AirBnB for Mailing Addresses"
 
-[![mailbud demo video](./assets/splash-demo.mp4)](./assets/splash-demo.mp4)
+https://user-images.githubusercontent.com/16323009/185520675-90b58fe6-bbce-460b-a933-75c086d5ad6d.mp4
